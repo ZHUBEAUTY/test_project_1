@@ -1,0 +1,4 @@
+flask
+requests
+# 无效版本
+numpy==latest
