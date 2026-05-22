@@ -1,0 +1,8 @@
+app:
+  name: mini-blog
+  secret_key: sk_abc123456789  # 硬编码密钥
+  debug: true
+# 语法错误：缩进不规范
+database:
+    host: localhost
+  port: 3306
