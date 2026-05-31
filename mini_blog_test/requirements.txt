@@ -1,0 +1,4 @@
+flask==2.0.0  # 已知安全漏洞
+requests
+numpy==latest  # 无效版本
+django  # 未使用依赖

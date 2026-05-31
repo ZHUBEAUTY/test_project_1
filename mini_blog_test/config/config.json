@@ -1,0 +1,7 @@
+{
+    "api_key": "test_987654321",
+    "admin_token": "admin123",
+    "database": "mini_blog",
+    # 注释不允许（JSON语法错误）
+    "port": 8080
+}

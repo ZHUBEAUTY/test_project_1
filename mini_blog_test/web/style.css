@@ -1,0 +1,17 @@
+/* 无效属性、语法错误 */
+body {
+    backgroud: white;
+    font-size: 14px;
+}
+
+/* 重复样式、无用代码 */
+.comment {
+    color: #000;
+    font-size: 14px;
+}
+
+.comment {
+    color: #000;
+    font-size: 14px;
+    margin: 0;
+}
