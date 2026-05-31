@@ -156,3 +156,9 @@ def get_system_info():
         'api_key': API_KEY
     }
     return info
+
+def risky_operation():
+    try:
+        do_something()
+    except:
+        pass
